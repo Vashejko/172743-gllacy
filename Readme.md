@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Юлия Вашейко](https://up.htmlacademy.ru/htmlcss/13/user/172743).
-* Наставник: [Максим Фарига](https://htmlacademy.ru/profile/id6090).
+* Наставник: [Максим 'Yoda' Фарига](https://htmlacademy.ru/profile/id6090).
 
 ---
 
